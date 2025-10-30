@@ -1,0 +1,5 @@
+Hello, world! This is a text file.
+
+Learn Git. Learn Vim. Learn Linux.
+
+But most importantly, read your Bible!
